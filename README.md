@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @feelipemendes
-- 🕰️ I have 5 years of work experience with project, systems analysis and web developer (c#)
-- 👀 I’m interested in C# and SQL
-- 🌱 I’m currently learning DDD, Clean Code, ASP.NET 6 and EF6
+- 🕰️ I've over 7 years of work experience with project, systems analysis and web developer using C# with .Net Framework
+- 👀 I’m interested in Azure and Design Patterns
+- 🌱 I’m currently learning DDD, Clean Code, ASP.NET 6+ and EF Core
 - 📫 How to reach me https://www.linkedin.com/in/feelipemendes/
 
 <!---
